@@ -24,8 +24,8 @@ As the name suggests, a reverse brute force attack reverses the attack strategy 
 - Credential Stuffing
 In a credential stuffing attack, a hacker who has a working username-password combination for one website will attempt to use the same credentials on multiple other websites. This is possible because many users tend to reuse login information across various platforms. As a result, users who engage in such practices become exclusive targets of these attacks.
 
-
-
+## Installation
+`pip3 install skype_recov `
 
 
 
