@@ -9,18 +9,23 @@ These attacks are referred to as "brute force" because they utilize an excessive
 **Types of Brute Force Attacks**
 
 Brute force attacks come in several variations, each with its specific approach and objectives. Here are some common types:
-1. Simple Brute Force Attacks
-
+- Simple Brute Force Attacks
 In a simple brute force attack, hackers manually and logically guess login credentials without assistance from software tools or other means. These attacks often uncover extremely simple passwords and PINs, such as "guest12345."
-2. Dictionary Attacks
 
+- Dictionary Attacks
 Dictionary attacks involve hackers selecting a target and running a set of potential passwords against a username. While not true brute force attacks themselves, dictionary attacks are a fundamental component of password cracking. Attackers may iterate through complete dictionaries, enhancing words with special characters and numerals, or use specialized dictionaries tailored for specific targets.
-3. Hybrid Brute Force Attacks
 
+- Hybrid Brute Force Attacks
 Hybrid brute force attacks combine external methods with logical guesses to attempt a break-in. This method typically blends dictionary and brute force attacks, seeking to unveil passwords that mix common words with random characters. For example, passwords like "NewYork1993" or "Spike1234" are typical targets for such attacks.
-4. Reverse Brute Force Attacks
 
+- Reverse Brute Force Attacks
 As the name suggests, a reverse brute force attack reverses the attack strategy by commencing with a known password. Hackers search through millions of usernames until they locate a match. Often, attackers start with leaked passwords from existing data breaches, using them as a starting point for their endeavors.
-5. Credential Stuffing
 
+- Credential Stuffing
 In a credential stuffing attack, a hacker who has a working username-password combination for one website will attempt to use the same credentials on multiple other websites. This is possible because many users tend to reuse login information across various platforms. As a result, users who engage in such practices become exclusive targets of these attacks.
+
+
+
+
+
+
